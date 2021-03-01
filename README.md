@@ -8,7 +8,7 @@
 ## Docente: JAIME LEONARDO ENRIQUEZ ALVAREZ
 ___
 # :page_with_curl: Datos del alumno
-- ## Nombre: Valadez Camacho Gustavp
+- ## Nombre: Valadez Camacho Gustavo
 - ## Núm. de control: 17211678
 - ## Carrera: Ingeniería Informática
 

@@ -18,7 +18,7 @@ ___
 
 # :floppy_disk: Índice 
 ## :file_folder: [Unidad 1](./Unidad_1)
-## :file_folder: [Unidad 1](./Unidad_1/C02._RetoEnClase_GustavoValadezCamacho.md)
+- ## :file_folder: [C02._RetoEnClase_GustavoValadezCamacho.md](./Unidad_1/C02._RetoEnClase_GustavoValadezCamacho.md)
 
 
 ## :file_folder: [Unidad 2](./Unidad_2)

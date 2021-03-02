@@ -15,6 +15,6 @@ ___
 ___
 
 # :floppy_disk: Índice 
-- ## :file_folder: [Unidad 1](../tree/main/Unidad_1)
-- ## :file_folder: [Unidad 2](../Unidad_2)
-- ## :file_folder: [Unidad 3](../Unidad_3)
+- ## :file_folder: [Unidad 1](./tree/main/Unidad_1)
+- ## :file_folder: [Unidad 2](./Unidad_2)
+- ## :file_folder: [Unidad 3](./Unidad_3)

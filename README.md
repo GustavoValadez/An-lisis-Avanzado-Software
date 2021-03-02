@@ -6,7 +6,7 @@
 TECNOLÓGICO NACIONAL DE MÉXICO <br>
 INSTITUTO TECNOLÓGICO DE TIJUANA <br>
 <h5>Ingeniería en sistemas computaciones, Tecnologías de la información y comunicación, e Informática</h5>
-</b></h1>
+</b></center></h1>
 </p>
 
 

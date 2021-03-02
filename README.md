@@ -10,10 +10,10 @@
 ## Docente: JAIME LEONARDO ENRIQUEZ ALVAREZ
 ___
 # :page_with_curl: DATOS DEL ALUMNO
-## Nombre: **Valadez Camacho Gustavo**
-## Núm. de control: **17211678**
-## Carrera: **Ingeniería Informática**
-## Email: **gustavo.valadez17@tectijuana.edu.mx**
+- ### Nombre: **Valadez Camacho Gustavo**
+- ### Núm. de control: **17211678**
+- ### Carrera: **Ingeniería Informática**
+- ### Email: **gustavo.valadez17@tectijuana.edu.mx**
 ___
 
 # :floppy_disk: Índice 

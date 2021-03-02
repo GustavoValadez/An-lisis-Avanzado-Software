@@ -1,4 +1,4 @@
-# Analisis-Avanzado-Software
+
 <p align="center">
     <img alt="Logo" src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.png" width=200 height=200>
 </p>

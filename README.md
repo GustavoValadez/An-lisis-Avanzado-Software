@@ -20,7 +20,7 @@ ___
 - ### Núm. de control: **17211678**
 - ### Carrera: **Ingeniería Informática**
 - ### Email: **gustavo.valadez17@tectijuana.edu.mx**
-___
+- ### Equipo: Helltakers 
 
 # :floppy_disk: Índice 
 ## :file_folder: [Unidad 1](./Unidad_1)

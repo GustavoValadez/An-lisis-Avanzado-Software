@@ -25,10 +25,9 @@ ___
 # :floppy_disk: Índice 
 ## :file_folder: [Unidad 1](./Unidad_1)
 
-- #### :page_facing_up: [C01._IntegrarEquiposDeTrabajo_GustavoValadezCamacho.md](./Unidad_1/C01._IntegrarEquiposDeTrabajo_GustavoValadezCamacho.md)
-
-- #### :page_facing_up: [C02._RetoEnClase_GustavoValadezCamacho.md](./Unidad_1/C02._RetoEnClase_GustavoValadezCamacho.md)
-
+- #### :page_facing_up: [C01. Integrar Equipos De Trabajo](./Unidad_1/C01._IntegrarEquiposDeTrabajo_GustavoValadezCamacho.md)
+- #### :page_facing_up: [C02. Reto En Clase](./Unidad_1/C02._RetoEnClase_GustavoValadezCamacho.md)
+- #### :page_facing_up: [C03. Diagrama de flujo de Proceso](./Unidad_1/C03._DiagramaDeFlujo_Proceso_GustavoValadezCamacho.md)
 
 ## :file_folder: [Unidad 2](./Unidad_2)
 

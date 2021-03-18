@@ -28,6 +28,7 @@ ___
 - #### :page_facing_up: [C01. Integrar Equipos De Trabajo](./Unidad_1/C01._IntegrarEquiposDeTrabajo_GustavoValadezCamacho.md)
 - #### :page_facing_up: [C02. Reto En Clase](./Unidad_1/C02._RetoEnClase_GustavoValadezCamacho.md)
 - #### :page_facing_up: [C03. Diagrama de flujo de Proceso](./Unidad_1/C03._DiagramaDeFlujo_Proceso_GustavoValadezCamacho.md)
+- #### :page_facing_up: [A0.1 Data Collection Through The Interview](./Unidad_1/A0.1_DataCollectionThroughTheInterview_ValadezCamachoGustavo.md)
 
 ## :file_folder: [Unidad 2](./Unidad_2)
 

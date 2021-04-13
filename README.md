@@ -33,9 +33,7 @@ ___
 ## :file_folder: [Unidad 2](./Unidad_2)
 
 - #### :page_facing_up: [C1.1. Objetivos Generales y Específicos](./Unidad_2/C1.1_ObjetivosGenerales_Especificos_ValadezCamachoGustavo.md)
-
-
-
+- #### :page_facing_up: [C1.2. Elaboración del acta constitutiva del proyecto](./Unidad_2/C1.2_ActaConstitutiva_delProyecto_ValadezCamachoGustavo.md)
 
 
 ## :file_folder: [Unidad 3](./Unidad_3)

@@ -35,6 +35,7 @@ ___
 - #### :page_facing_up: [C1.1. Objetivos Generales y Específicos](./Unidad_2/C1.1_ObjetivosGenerales_Especificos_ValadezCamachoGustavo.md)
 - #### :page_facing_up: [C1.2. Elaboración del acta constitutiva del proyecto](./Unidad_2/C1.2_ActaConstitutiva_delProyecto_GustavoValadezCamacho.md)
 - #### :page_facing_up: [C1.3. Requisitos del sistema](./Unidad_2/C1.3_Requisitos_del_sistema_GustavoValadezCamacho.md)
+- #### :page_facing_up: [C1.4. Modelado de Requisitos a través de diagramas de comportamiento]](./Unidad_2/C1.4_UML_Casos_de_uso_Secuencia_Clases_GustavoValadezCamacho.md)
 - #### :page_facing_up: [A1.0 Constitutive Act of th Project](./Unidad_1/A1.0_ConstitutiveActOfTheProject_GustavoValadezCamacho.md)
 
 

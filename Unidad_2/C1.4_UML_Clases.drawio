@@ -92,7 +92,7 @@
                 <mxCell id="26" value="Categorias" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
                     <mxGeometry x="640" y="555" width="160" height="200" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="IdCategorias int &#10;NombreCategoria  string&#10;Descripcion" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="26" vertex="1">
+                <mxCell id="27" value="IdCategorias int &#10;NombreCategoria  string&#10;Descripcion  string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="26" vertex="1">
                     <mxGeometry y="26" width="160" height="74" as="geometry"/>
                 </mxCell>
                 <mxCell id="28" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="26" vertex="1">

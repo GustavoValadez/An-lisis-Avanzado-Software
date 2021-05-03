@@ -37,8 +37,8 @@ ___
 - #### :page_facing_up: [C1.3. Requisitos del sistema](./Unidad_2/C1.3_Requisitos_del_sistema_GustavoValadezCamacho.md)
 - #### :page_facing_up: [C1.4. Modelado de Requisitos a través de diagramas de comportamiento](./Unidad_2/C1.4_UML_Casos_de_uso_Secuencia_Clases_GustavoValadezCamacho.md)
 - #### :page_facing_up: [C1.5. Modelado de requisitos a través de diagramas estructurados](./Unidad_2/C1.5_UML_Estado_componentes_distribucion_GustavoValadezCamacho.md)
-- #### :page_facing_up: [A1.0 Constitutive Act of th Project](./Unidad_2/A1.0_ConstitutiveActOfTheProject_GustavoValadezCamacho.md)
-
+- #### :page_facing_up: [A1.0 Constitutive Act of the Project](./Unidad_2/A1.0_ConstitutiveActOfTheProject_GustavoValadezCamacho.md)
+- #### :page_facing_up: [A1.1 Requirements Modeling (UML)](./Unidad_2/A1.1_RequirementsModeling_GustavoValadezCamacho.md)
 
 
 ## :file_folder: [Unidad 3](./Unidad_3)

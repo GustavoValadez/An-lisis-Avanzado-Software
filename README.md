@@ -45,3 +45,8 @@ ___
 - #### :page_facing_up: [C2.1. Especificación de Requerimientos Funcionales](./Unidad_3/C2.1_EspecificacionRequerimientos_Funcionales_GustavoValadezCamacho.md)
 - #### :page_facing_up: [A2.1 Requirements Specification And Documentation](./Unidad_3/A2.1_RequirementsSpecificationAndDocumentation_GustavoValadezCamacho.md)
 - #### :page_facing_up: [A2.2 4+1 Architecture Design](./Unidad_3/A2.2_4+1ArchitectureDesign_GustavoValadezCamacho.md)
+- #### :page_facing_up: [A2.3 Software Architecture Patterns](./Unidad_3/A2.3_SoftwareArchitecturePatterns_GustavoValadezCamacho.md)
+
+
+
+

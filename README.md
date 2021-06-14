@@ -50,3 +50,4 @@ ___
 ## :file_folder: [Unidad 4](./Unidad_4)
 
 - #### :page_facing_up: [A3.1 SCRUM Start Phase: Project Vision Statement](./Unidad_4/A3.1_ScrumStartPhaseProjectVisionStatement_GustavoValadezCamacho.md)
+- #### :page_facing_up: [A3.2 SCRUM Start Phase: Artifacts](./Unidad_4/A3.2_StartPhaseArtifacts_GustavoValadezCamacho.md)

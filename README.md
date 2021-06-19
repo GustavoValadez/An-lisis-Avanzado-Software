@@ -51,3 +51,4 @@ ___
 
 - #### :page_facing_up: [A3.1 SCRUM Start Phase: Project Vision Statement](./Unidad_4/A3.1_ScrumStartPhaseProjectVisionStatement_GustavoValadezCamacho.md)
 - #### :page_facing_up: [A3.2 SCRUM Start Phase: Artifacts](./Unidad_4/A3.2_StartPhaseArtifacts_GustavoValadezCamacho.md)
+- #### :page_facing_up: [A3.3 SCRUM Software architecture through the C4 Model](./Unidad_4/A3.3_SoftwareArchitectureThroughTheC4Model_GustavoValadezCamacho.md)
